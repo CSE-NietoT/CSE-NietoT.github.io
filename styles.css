@@ -1,8 +1,24 @@
 body{
     background:#EED2F2;
-    font-family: Times new roman;
+    font-family:Times new roman;
 }
 h1{
     color:#965E9D;
-    text-align: center;
+    text-align:center;
+}
+.about{
+color:;
+font-family:;
+}
+.skills{
+color:#6073C7;
+font-family:Helvetica;
+}
+.projects{
+color:#313D73;
+font-family:Arial;
+}
+.contact{
+color:#704B75;
+font-family:Sans-serif;
 }
